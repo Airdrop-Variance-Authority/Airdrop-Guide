@@ -9,6 +9,8 @@
    🔹 Join the project’s discord
    
    🔹 Interact with dApps in the ecosystem
+
+   🔹 Engage with the project community on Discord and X
    
    🔹 Deploy a contract if possible
    
