@@ -6,37 +6,37 @@
 
 1. Testnets: Almost free. Require time. Best choice for newbies/low banks
 
-🔹 Join the project’s discord
-
-🔹 Interact with dApps in the ecosystem
-
-🔹 Deploy a contract if possible
-
-🔹 Run a node if possible
-
-🔹 Complete every quests/campaigns available. Includes Galxe, Guild etc
+   🔹 Join the project’s discord
+   
+   🔹 Interact with dApps in the ecosystem
+   
+   🔹 Deploy a contract if possible
+   
+   🔹 Run a node if possible
+   
+   🔹 Complete every quests/campaigns available. Includes Galxe, Guild etc
 
 They are also the easiest airdrops by the time spent. Let’s take a look at the requirements from the biggest testnet airdrops 👇🏼
-
-🔹 Aptos - Fill in the form/ Run a node = get $5000 per account
-
-🔹 SUI - Join Discord = get $2000 per account
+   
+   🔹 Aptos - Fill in the form/ Run a node = get $5000 per account
+   
+   🔹 SUI - Join Discord = get $2000 per account
 
 2. Mainnets: Some blockchain has launched on Mainnet, but doesn’t have a token? Prime example of a juicy upcoming airdrop!
 
-🔹 Bridged funds to “Airdrop Chain”. Use the official bridge
-
-🔹 Has conducted 10,25,50+ transactions on the “Airdrop Chain”
-
-🔹 Has been active for 3,6,9+ months on the “Airdrop Chain”
-
-🔹 Interacted with more than 5/10/15 smart-contracts
-
-🔹 Has passed the Sybil Check
-
-🔹 DAO Voter
-
-🔹 Trading volume > $1000/$10.000/$25.000
+   🔹 Bridged funds to “Airdrop Chain”. Use the official bridge
+   
+   🔹 Has conducted 10,25,50+ transactions on the “Airdrop Chain”
+   
+   🔹 Has been active for 3,6,9+ months on the “Airdrop Chain”
+   
+   🔹 Interacted with more than 5/10/15 smart-contracts
+   
+   🔹 Has passed the Sybil Check
+   
+   🔹 DAO Voter
+   
+   🔹 Trading volume > $1000/$10.000/$25.000
 
 3. Protocol: These types of airdrops use wider range of criteria and multiplicators, based on the services the project provide.
 
